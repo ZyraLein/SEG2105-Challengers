@@ -8,3 +8,4 @@ Welcome to SEG2105! - Ahd
 
 Test 2 modification - Ahd
 >>>>>>> cf2a4c64668b81f74df7f847c847902c54d9dc48
+Hello World! - Mikhail
